@@ -1,7 +1,7 @@
 """
     Collection of functions for analysis of BRW (HDF5) files generated with the BrainWave program from the company 3Brain.
     Laboratory 19 of the CINVESTAV in charge of Dr. Rafael Gutierrez Aguilar.
-    Work developed mainly by Isabel Romero-Maldonado (2020 - )
+    Work developed by Isabel Romero-Maldonado (2020 - )
     isabelrm.biofisica@gmail.com
     https://github.com/LBitn
 """

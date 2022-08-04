@@ -15,9 +15,10 @@ using Statistics
 using StatsBase
 using Distributions
 using Plots
+using BinningAnalysis
 
 export searchdir
-export Sparcity
+export Sparsity
 export Density
 export Get_Groups
 export neighborgs
